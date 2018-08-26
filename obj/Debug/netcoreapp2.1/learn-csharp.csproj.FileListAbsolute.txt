@@ -1,0 +1,11 @@
+/Users/erikwotring/wotring/learn-csharp/bin/Debug/netcoreapp2.1/learn-csharp.deps.json
+/Users/erikwotring/wotring/learn-csharp/bin/Debug/netcoreapp2.1/learn-csharp.runtimeconfig.json
+/Users/erikwotring/wotring/learn-csharp/bin/Debug/netcoreapp2.1/learn-csharp.runtimeconfig.dev.json
+/Users/erikwotring/wotring/learn-csharp/bin/Debug/netcoreapp2.1/learn-csharp.dll
+/Users/erikwotring/wotring/learn-csharp/bin/Debug/netcoreapp2.1/learn-csharp.pdb
+/Users/erikwotring/wotring/learn-csharp/obj/Debug/netcoreapp2.1/learn-csharp.csprojAssemblyReference.cache
+/Users/erikwotring/wotring/learn-csharp/obj/Debug/netcoreapp2.1/learn-csharp.csproj.CoreCompileInputs.cache
+/Users/erikwotring/wotring/learn-csharp/obj/Debug/netcoreapp2.1/learn-csharp.AssemblyInfoInputs.cache
+/Users/erikwotring/wotring/learn-csharp/obj/Debug/netcoreapp2.1/learn-csharp.AssemblyInfo.cs
+/Users/erikwotring/wotring/learn-csharp/obj/Debug/netcoreapp2.1/learn-csharp.dll
+/Users/erikwotring/wotring/learn-csharp/obj/Debug/netcoreapp2.1/learn-csharp.pdb
